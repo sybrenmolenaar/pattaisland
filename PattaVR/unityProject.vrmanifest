@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.pattavr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "H:\\pepij\\Desktop\\Pepijn\\School\\VRMinor\\PattaVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "PattaVR [Testing]"
+        }
+      }
+    }
+  ]
+}
